@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_9/question_4.cpp
+pthread.h
+-
+iostream
+-
+string
+-
+fstream
+-
+cstdlib
+-
+map
+-
+unistd.h
+-
+algorithm
+-
+iterator
+-
+vector
+-
+sstream
+-
+ctime
+-
+

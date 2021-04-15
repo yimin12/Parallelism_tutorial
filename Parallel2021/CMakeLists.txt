@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(Parallel2021)
+set(CMAKE_CXX_STANDARD 14)
+add_subdirectory(Homework_8)
+add_subdirectory(Homework_9)
+add_subdirectory(Homework_11)

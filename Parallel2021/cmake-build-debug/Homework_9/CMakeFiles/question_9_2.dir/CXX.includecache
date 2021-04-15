@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_9/question_2.cpp
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+pthread.h
+-
+unistd.h
+-
+semaphore.h
+-
+

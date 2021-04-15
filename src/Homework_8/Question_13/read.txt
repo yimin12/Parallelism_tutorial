@@ -1,0 +1,1 @@
+gcc -m64 reverseThread.c -I "E:/Eclipse_WorkSpace/openjdk-14.0.1_windows-x64_bin/jdk-14.0.1/include" -I "E:/Eclipse_WorkSpace/openjdk-14.0.1_windows-x64_bin/jdk-14.0.1/include/win32" -lpthread -shared -o reverseThread.dll

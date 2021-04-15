@@ -1,0 +1,8 @@
+add_subdirectory(question_3)
+add_subdirectory(question_11)
+add_executable(question_14 question_14.cpp)
+add_executable(question_12 question_12.cpp)
+add_executable(question_10 question_10.cpp)
+add_executable(question_8 question_8.cpp)
+add_executable(question_7 question_7.cpp)
+add_executable(question_5 question_5.cpp)

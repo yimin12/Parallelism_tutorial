@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_9/question_3_stack_own.cpp
+iostream
+-
+stdio.h
+-
+string
+-
+

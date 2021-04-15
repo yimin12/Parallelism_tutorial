@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Parallel2021"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\Homework_8\;CMake Files\Homework_8\question_3\;CMake Files\Homework_8\question_11\;CMake Files\Homework_9\;CMake Files\Homework_11\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_7">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 question_7"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_7/fast">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 question_7/fast"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_14">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_14.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 question_14"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_14/fast">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_14.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 question_14/fast"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_12">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_12.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 question_12"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_12/fast">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_12.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 question_12/fast"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_10">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_10.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 question_10"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_10/fast">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_10.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 question_10/fast"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_8">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_8.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 question_8"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_8/fast">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_8.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 question_8/fast"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_5">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 question_5"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_5/fast">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_5.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 question_5/fast"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="program_4">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/program_4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 program_4"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="program_4/fast">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/program_4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 program_4/fast"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem_10">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/problem_10.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 problem_10"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem_10/fast">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/problem_10.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 problem_10/fast"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="program_6">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/program_6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 program_6"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="program_6/fast">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/program_6.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 program_6/fast"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="program_7">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/program_7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 program_7"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="program_7/fast">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/program_7.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 program_7/fast"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem_13">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/problem_13.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 problem_13"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem_13/fast">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/problem_13.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 problem_13/fast"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="program_18">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/program_18.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 program_18"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="program_18/fast">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/program_18.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 program_18/fast"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem_20">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/problem_20.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 problem_20"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem_20/fast">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/problem_20.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 problem_20/fast"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem_25">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/problem_25.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 problem_25"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem_25/fast">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/problem_25.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 problem_25/fast"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem_28">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/problem_28.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 problem_28"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="problem_28/fast">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/problem_28.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 problem_28/fast"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="program_40">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/program_40.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 program_40"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="program_40/fast">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/program_40.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 program_40/fast"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_3/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HelloWorld">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_11/HelloWorld.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_11"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_11/Makefile&quot;  VERBOSE=1 HelloWorld"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_11/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_11/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_11/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HelloWorld/fast">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_11/HelloWorld.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_11"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_11/Makefile&quot;  VERBOSE=1 HelloWorld/fast"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_11/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_11/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_8/question_11/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_9_1">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/question_9_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 question_9_1"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_9_1/fast">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/question_9_1.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 question_9_1/fast"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_9_2">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/question_9_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 question_9_2"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_9_2/fast">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/question_9_2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 question_9_2/fast"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_3_queue_own">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/question_3_queue_own.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 question_3_queue_own"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_3_queue_own/fast">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/question_3_queue_own.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 question_3_queue_own/fast"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_3_stack">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/question_3_stack.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 question_3_stack"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_3_stack/fast">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/question_3_stack.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 question_3_stack/fast"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_3_stack_own">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/question_3_stack_own.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 question_3_stack_own"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_3_stack_own/fast">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/question_3_stack_own.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 question_3_stack_own/fast"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_3_queue">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/question_3_queue.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 question_3_queue"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_3_queue/fast">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/question_3_queue.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 question_3_queue/fast"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_4">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/question_4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 question_4"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_4/fast">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/question_4.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 question_4/fast"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_9/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_3">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_11/question_3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_11"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_11/Makefile&quot;  VERBOSE=1 question_3"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_11/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_11/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_11/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="question_3/fast">
+				<Option output="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_11/question_3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_11"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="E:/Dev_Software/cpp_compiler/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_11/Makefile&quot;  VERBOSE=1 question_3/fast"/>
+					<CompileFile command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_11/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_11/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="E:/Dev_Software/cpp_compiler/mingw64/bin/mingw32-make.exe -f &quot;F:/Materials/MyCode/cLion_workSpace/Parallel2021/cmake-build-debug/Homework_11/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_11/Question_3.cpp">
+			<Option target="question_3"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_8/question_10.cpp">
+			<Option target="question_10"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_8/question_11/HelloWorld.cpp">
+			<Option target="HelloWorld"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_8/question_12.cpp">
+			<Option target="question_12"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_8/question_14.cpp">
+			<Option target="question_14"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_8/question_3/problem_10.cpp">
+			<Option target="problem_10"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_8/question_3/problem_13.cpp">
+			<Option target="problem_13"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_8/question_3/problem_20.cpp">
+			<Option target="problem_20"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_8/question_3/program_18.cpp">
+			<Option target="program_18"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_8/question_3/program_25.cpp">
+			<Option target="problem_25"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_8/question_3/program_28.cpp">
+			<Option target="problem_28"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_8/question_3/program_4.cpp">
+			<Option target="program_4"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_8/question_3/program_40.cpp">
+			<Option target="program_40"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_8/question_3/program_6.cpp">
+			<Option target="program_6"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_8/question_3/program_7.cpp">
+			<Option target="program_7"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_8/question_5.cpp">
+			<Option target="question_5"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_8/question_7.cpp">
+			<Option target="question_7"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_8/question_8.cpp">
+			<Option target="question_8"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_9/question_1.cpp">
+			<Option target="question_9_1"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_9/question_2.cpp">
+			<Option target="question_9_2"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_9/question_3_queue.cpp">
+			<Option target="question_3_queue"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_9/question_3_queue_own.cpp">
+			<Option target="question_3_queue_own"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_9/question_3_stack.cpp">
+			<Option target="question_3_stack"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_9/question_3_stack_own.cpp">
+			<Option target="question_3_stack_own"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_9/question_4.cpp">
+			<Option target="question_4"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_8/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Homework_8\"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_8/question_3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Homework_8\question_3\"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_8/question_11/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Homework_8\question_11\"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_9/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Homework_9\"/>
+		</Unit>
+		<Unit filename="F:/Materials/MyCode/cLion_workSpace/Parallel2021/Homework_11/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\Homework_11\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
