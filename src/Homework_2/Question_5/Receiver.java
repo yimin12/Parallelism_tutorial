@@ -1,6 +1,5 @@
 package Homework_2.Question_5;
 
-import sun.rmi.runtime.Log;
 
 import java.util.concurrent.ThreadLocalRandom;
 

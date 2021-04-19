@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Homework_12/Question_4/test.txtnull.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/Homework_2/Question_6/text.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/Homework_3/Question_7/result.txt" charset="GBK" />
     <file url="file://$PROJECT_DIR$/src/Homework_6/Question_3/testnull.txt" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
   </component>
 </project>
